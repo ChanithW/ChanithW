@@ -8,7 +8,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChanithW&color=00b4d8&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/chanith-wanigasooriya](https://www.linkedin.com/in/chanith-wanigasooriya-6b9194244/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/chanith-wanigasooriya-6b9194244/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ChanithW)
 
 </div>
