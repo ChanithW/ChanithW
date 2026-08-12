@@ -79,18 +79,16 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanithW&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanithW&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ChanithW&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&ring_color=00b4d8&include_all_commits=true&count_private=true&custom_title=GitHub+Overview" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChanithW&theme=tokyonight" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChanithW&theme=tokyonight" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChanithW&theme=tokyonight&utcOffset=5.5" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithW&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&layout=compact&langs_count=8&custom_title=Most+Used+Languages" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ChanithW&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" height="165"/>
+<img src="https://streak-stats.demolab.com?user=ChanithW&theme=transparent&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanithW&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&area=true&area_color=00b4d8&hide_border=true&custom_title=Contribution+Activity" width="100%"/>
 
 </div>
