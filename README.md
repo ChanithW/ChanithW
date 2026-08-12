@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Chanith%20Wickramasinghe&fontSize=36&fontAlignY=38&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Chanith%20Wanigasooriya&fontSize=36&fontAlignY=38&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-🎓 3rd Year BSc (Hons) IT — Data Science, SLIIT  
+🎓 4th Year BSc (Hons) IT — Specializing in Data Science @ SLIIT  
 🔬 Researching AI-driven stellar flare analysis & exoplanetary habitability  
 💼 Director of IT, Leo Club of Yakkala City  
 🛠️ Building full-stack apps, ML systems & real-time monitoring tools
