@@ -18,9 +18,13 @@
 
 ## 👨‍💻 About Me
 🎓 4th Year BSc (Hons) IT — Specialising in Data Science @ SLIIT
+
 🔭 Research: AI-Driven Stellar Flare Analysis & Exoplanetary Habitability
+
 💼 Software and Cloud Engineer, Hayleys Fentons Limited
+
 🛠️ Building full-stack apps, ML pipelines & real-time monitoring systems
+
 🌐 Passionate about turning raw data into impactful, real-world solutions
 
 
