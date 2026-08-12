@@ -79,13 +79,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChanithW&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&ring_color=00b4d8&include_all_commits=true&count_private=true&custom_title=GitHub+Overview" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChanithW&theme=github_dark" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithW&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff&layout=compact&langs_count=8&custom_title=Most+Used+Languages" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChanithW&theme=github_dark" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanithW&theme=github_dark" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ChanithW&theme=transparent&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ChanithW&theme=transparent&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" height="165"/>
 
 <br/><br/>
 
