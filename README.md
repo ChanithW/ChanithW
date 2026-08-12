@@ -79,11 +79,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChanithW&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithW&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChanithW&theme=tokyonight" width="100%"/>
 
-<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChanithW&theme=tokyonight" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChanithW&theme=tokyonight" height="165"/>
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=ChanithW&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8" height="165"/>
 
