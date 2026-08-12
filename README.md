@@ -4,8 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=BSc+(Hons)+IT+%E2%80%94+Data+Science+%40+SLIIT;AI-Driven+Stellar+Flare+Researcher;Full+Stack+%26+ML+Engineer;Director+of+IT+%E2%80%94+Leo+Club+of+Yakkala+City)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Science+Undergraduate+%40+SLIIT;Full+Stack+%26+ML+Engineer;Software+and+Cloud+Engineer+%40+Hayleys+Fentons+Limited)](https://git.io/typing-svg)
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ChanithW&color=00b4d8&style=flat-square&label=Profile+Views)
